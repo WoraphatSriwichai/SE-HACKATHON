@@ -1,0 +1,23 @@
+{
+  "name": "se-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specinodefied\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoraphatSriwichai/SE-HACKATHON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoraphatSriwichai/SE-HACKATHON/issues"
+  },
+  "homepage": "https://github.com/WoraphatSriwichai/SE-HACKATHON#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
